@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.b27c50a3.js",
+    "main.js": "/static/js/main.508a57a3.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/ethen_dixon.jpg": "/static/media/ethen_dixon.61cf57f326bb2cf527c1.jpg",
     "static/media/kmilogo_top.png": "/static/media/kmilogo_top.12265fd629457a19bafa.png",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.b27c50a3.js.map": "/static/js/main.b27c50a3.js.map",
+    "main.508a57a3.js.map": "/static/js/main.508a57a3.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.b27c50a3.js"
+    "static/js/main.508a57a3.js"
   ]
 }
